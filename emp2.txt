@@ -1,0 +1,2 @@
+Second file content
+New work in file2
